@@ -35,5 +35,5 @@ Detailed lesrning topics are explained in the **README file inside each folder**
 
 ## 🌻Author
 **Putri Ayu L.W** <br>
-📩**Email: putriayulw10@gmail.com**
-🔗**LinkedIn: https://www.linkedin.com/in/putriayulichawardani""
+📩**Email:** putriayulw10@gmail.com <br>
+🔗**LinkedIn:** https://www.linkedin.com/in/putriayulichawardani
