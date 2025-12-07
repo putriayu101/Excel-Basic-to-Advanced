@@ -34,5 +34,5 @@ Detailed lesrning topics are explained in the **README file inside each folder**
 3. If there are folder names other than **basic, intermediate, or advanced**, they are probably other foldders that store projects or other notes. Each folder will have a **README** files, explaining its contents
 
 ## 🌻Author
-**Putri Ayu L.W**
-**📩Email: putriayulw10@gmail.com**
+**Putri Ayu L.W** 
+📩**Email: putriayulw10@gmail.com**
